@@ -36,6 +36,6 @@ https://rickandmortyapi.com/api/character
 
 Eduardo Lucas de Oliveira
 
-GitHub: https://github.com/Eduardo10101
+GitHub: https://github.com/devEduLucas
 
 LinkedIn: https://www.linkedin.com/in/eduardo-lucas-487975366/
